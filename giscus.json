@@ -1,4 +1,4 @@
 {
-  "origins": ["https://jumacabo.com", "http://127.0.0.1:8765"],
+  "origins": ["https://jumacabo.com"],
   "defaultCommentOrder": "oldest"
 }
